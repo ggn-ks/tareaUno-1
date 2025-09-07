@@ -77,7 +77,7 @@ Si la ID no tiene los '000' solicitados te indica que no es posible; sin embargo
 ## Ejemplos de ejecución 
 
 ### *MENU 1*
-![Mi gif](./videosTarea/menu-1.gif)
+![Mi gif](/videosTarea/menu-1.gif)
 
 *para descripción vacía*
 ![Mi gif](./videosTarea/menu-1-descripcion-vacia.gif)
@@ -102,3 +102,4 @@ Si la ID no tiene los '000' solicitados te indica que no es posible; sin embargo
 
 ### *MENU 0*
 ![Mi gif](./videosTarea/menu-0.gif)
+
